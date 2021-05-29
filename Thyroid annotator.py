@@ -1,4 +1,4 @@
-### written by Johnson Thomas and Pretty Philip 
+### Hacked together by Johnson Thomas 
 
 ### Annotation UI created in Streamlit
 ### Can be used for binary or multilabel annotation 
